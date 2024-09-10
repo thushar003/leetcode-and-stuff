@@ -9,6 +9,11 @@ class Car
     string model;
     int year;
     string color;
+
+    Car() = default;
+    Car(string& c_make, string& c_model, int& c_year, string& c_color)
+    : make(c_make), model(c_model), year(c_year), color(c_color) {}
+
     void start() {
         cout << "Engine starting..." << endl;
     }
