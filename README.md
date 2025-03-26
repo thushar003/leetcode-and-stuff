@@ -12,6 +12,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0002-add-two-numbers](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0029-divide-two-integers) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thushar003/cplusplus-mini-projects/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -28,8 +29,17 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0001-two-sum) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thushar003/cplusplus-mini-projects/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thushar003/cplusplus-mini-projects/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Matrix
+|  |
+| ------- |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thushar003/cplusplus-mini-projects/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
