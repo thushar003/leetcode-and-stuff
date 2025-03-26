@@ -1,4 +1,4 @@
-# cplusplus-mini-projects
+# leetcode-and-stuff
 Just contains solutions to problems from LeetCode (and other such stuff).
 1. Solutions to easy/medium/hard(?) problems from LeetCode
 2. Code from programming competitions, etc.
