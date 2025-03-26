@@ -42,4 +42,12 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thushar003/cplusplus-mini-projects/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/thushar003/leetcode-and-stuff/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/thushar003/leetcode-and-stuff/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
