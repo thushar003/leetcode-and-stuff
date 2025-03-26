@@ -24,4 +24,12 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0029-divide-two-integers) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
