@@ -36,10 +36,12 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | ------- |
 | [0001-two-sum](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/thushar003/leetcode-and-stuff/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/thushar003/leetcode-and-stuff/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/thushar003/leetcode-and-stuff/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/thushar003/leetcode-and-stuff/tree/master/0242-valid-anagram) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thushar003/cplusplus-mini-projects/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
 |  |
@@ -49,6 +51,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/thushar003/leetcode-and-stuff/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/thushar003/leetcode-and-stuff/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
