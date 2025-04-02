@@ -18,10 +18,12 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/thushar003/leetcode-and-stuff/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/thushar003/leetcode-and-stuff/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
