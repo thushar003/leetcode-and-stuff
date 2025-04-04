@@ -32,6 +32,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/thushar003/leetcode-and-stuff/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/thushar003/leetcode-and-stuff/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/thushar003/leetcode-and-stuff/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/thushar003/leetcode-and-stuff/tree/master/0347-top-k-frequent-elements) |
@@ -77,6 +78,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thushar003/leetcode-and-stuff/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/thushar003/leetcode-and-stuff/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -94,4 +96,8 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/thushar003/leetcode-and-stuff/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thushar003/leetcode-and-stuff/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
