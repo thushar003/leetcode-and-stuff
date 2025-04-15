@@ -13,6 +13,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0009-palindrome-number](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/thushar003/leetcode-and-stuff/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0029-divide-two-integers) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/thushar003/leetcode-and-stuff/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thushar003/cplusplus-mini-projects/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Linked List
 |  |
@@ -68,6 +69,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0020-valid-parentheses](https://github.com/thushar003/leetcode-and-stuff/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/thushar003/leetcode-and-stuff/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/thushar003/leetcode-and-stuff/tree/master/0242-valid-anagram) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/thushar003/leetcode-and-stuff/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Stack
 |  |
 | ------- |
