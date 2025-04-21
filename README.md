@@ -34,6 +34,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | ------- |
 | [0001-two-sum](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/thushar003/leetcode-and-stuff/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/thushar003/leetcode-and-stuff/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/thushar003/leetcode-and-stuff/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/thushar003/leetcode-and-stuff/tree/master/0051-n-queens) |
 | [0217-contains-duplicate](https://github.com/thushar003/leetcode-and-stuff/tree/master/0217-contains-duplicate) |
@@ -52,6 +53,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/thushar003/leetcode-and-stuff/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/thushar003/leetcode-and-stuff/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/thushar003/leetcode-and-stuff/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thushar003/leetcode-and-stuff/tree/master/0242-valid-anagram) |
@@ -107,4 +109,8 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/thushar003/leetcode-and-stuff/tree/master/0051-n-queens) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/thushar003/leetcode-and-stuff/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
