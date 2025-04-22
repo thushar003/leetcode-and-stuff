@@ -39,6 +39,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0049-group-anagrams](https://github.com/thushar003/leetcode-and-stuff/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/thushar003/leetcode-and-stuff/tree/master/0051-n-queens) |
 | [0217-contains-duplicate](https://github.com/thushar003/leetcode-and-stuff/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/thushar003/leetcode-and-stuff/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/thushar003/leetcode-and-stuff/tree/master/0347-top-k-frequent-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thushar003/cplusplus-mini-projects/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
@@ -114,4 +115,8 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0015-3sum](https://github.com/thushar003/leetcode-and-stuff/tree/master/0015-3sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/thushar003/leetcode-and-stuff/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
