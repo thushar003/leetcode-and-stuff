@@ -42,6 +42,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0217-contains-duplicate](https://github.com/thushar003/leetcode-and-stuff/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/thushar003/leetcode-and-stuff/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/thushar003/leetcode-and-stuff/tree/master/0347-top-k-frequent-elements) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/thushar003/leetcode-and-stuff/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thushar003/cplusplus-mini-projects/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0217-contains-duplicate](https://github.com/thushar003/leetcode-and-stuff/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thushar003/leetcode-and-stuff/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/thushar003/leetcode-and-stuff/tree/master/0347-top-k-frequent-elements) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/thushar003/leetcode-and-stuff/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0217-contains-duplicate](https://github.com/thushar003/leetcode-and-stuff/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thushar003/leetcode-and-stuff/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/thushar003/leetcode-and-stuff/tree/master/0347-top-k-frequent-elements) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/thushar003/leetcode-and-stuff/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thushar003/cplusplus-mini-projects/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
 |  |
@@ -110,6 +113,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thushar003/leetcode-and-stuff/tree/master/0004-median-of-two-sorted-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/thushar003/leetcode-and-stuff/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,6 +122,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0015-3sum](https://github.com/thushar003/leetcode-and-stuff/tree/master/0015-3sum) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/thushar003/leetcode-and-stuff/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
 | ------- |
