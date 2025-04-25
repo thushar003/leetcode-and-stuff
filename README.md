@@ -40,6 +40,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0049-group-anagrams](https://github.com/thushar003/leetcode-and-stuff/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/thushar003/leetcode-and-stuff/tree/master/0051-n-queens) |
 | [0128-longest-consecutive-sequence](https://github.com/thushar003/leetcode-and-stuff/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thushar003/leetcode-and-stuff/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/thushar003/leetcode-and-stuff/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/thushar003/leetcode-and-stuff/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/thushar003/leetcode-and-stuff/tree/master/0347-top-k-frequent-elements) |
@@ -115,6 +116,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thushar003/leetcode-and-stuff/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thushar003/leetcode-and-stuff/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/thushar003/leetcode-and-stuff/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Backtracking
 |  |
@@ -124,6 +126,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0015-3sum](https://github.com/thushar003/leetcode-and-stuff/tree/master/0015-3sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/thushar003/leetcode-and-stuff/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/thushar003/leetcode-and-stuff/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Prefix Sum
 |  |
