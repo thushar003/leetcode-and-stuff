@@ -89,6 +89,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/thushar003/leetcode-and-stuff/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/thushar003/leetcode-and-stuff/tree/master/0155-min-stack) |
 ## Sliding Window
 |  |
 | ------- |
@@ -138,4 +139,8 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/thushar003/leetcode-and-stuff/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/thushar003/leetcode-and-stuff/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
