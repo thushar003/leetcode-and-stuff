@@ -80,6 +80,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thushar003/leetcode-and-stuff/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/thushar003/leetcode-and-stuff/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/thushar003/leetcode-and-stuff/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/thushar003/leetcode-and-stuff/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/thushar003/leetcode-and-stuff/tree/master/0049-group-anagrams) |
@@ -128,6 +129,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/thushar003/leetcode-and-stuff/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/thushar003/leetcode-and-stuff/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thushar003/leetcode-and-stuff/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/thushar003/leetcode-and-stuff/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -143,4 +145,8 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/thushar003/leetcode-and-stuff/tree/master/0155-min-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/thushar003/leetcode-and-stuff/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
