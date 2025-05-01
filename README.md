@@ -36,6 +36,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | ------- |
 | [0001-two-sum](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/thushar003/leetcode-and-stuff/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/thushar003/leetcode-and-stuff/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/thushar003/leetcode-and-stuff/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/thushar003/leetcode-and-stuff/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/thushar003/leetcode-and-stuff/tree/master/0042-trapping-rain-water) |
@@ -133,6 +134,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thushar003/leetcode-and-stuff/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/thushar003/leetcode-and-stuff/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/thushar003/leetcode-and-stuff/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/thushar003/leetcode-and-stuff/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thushar003/leetcode-and-stuff/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -160,4 +162,8 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/thushar003/leetcode-and-stuff/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/thushar003/leetcode-and-stuff/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
