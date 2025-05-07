@@ -43,6 +43,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0049-group-anagrams](https://github.com/thushar003/leetcode-and-stuff/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/thushar003/leetcode-and-stuff/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/thushar003/leetcode-and-stuff/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/thushar003/leetcode-and-stuff/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/thushar003/leetcode-and-stuff/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thushar003/leetcode-and-stuff/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/thushar003/leetcode-and-stuff/tree/master/0217-contains-duplicate) |
@@ -78,6 +79,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/thushar003/leetcode-and-stuff/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/thushar003/leetcode-and-stuff/tree/master/0074-search-a-2d-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thushar003/cplusplus-mini-projects/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## String
 |  |
@@ -125,6 +127,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thushar003/leetcode-and-stuff/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/thushar003/leetcode-and-stuff/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thushar003/leetcode-and-stuff/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/thushar003/leetcode-and-stuff/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/thushar003/leetcode-and-stuff/tree/master/1468-check-if-n-and-its-double-exist) |
