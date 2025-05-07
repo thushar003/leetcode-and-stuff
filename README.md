@@ -48,6 +48,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0217-contains-duplicate](https://github.com/thushar003/leetcode-and-stuff/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/thushar003/leetcode-and-stuff/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/thushar003/leetcode-and-stuff/tree/master/0347-top-k-frequent-elements) |
+| [0792-binary-search](https://github.com/thushar003/leetcode-and-stuff/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/thushar003/leetcode-and-stuff/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thushar003/cplusplus-mini-projects/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
@@ -125,6 +126,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thushar003/leetcode-and-stuff/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thushar003/leetcode-and-stuff/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/thushar003/leetcode-and-stuff/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/thushar003/leetcode-and-stuff/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Backtracking
 |  |
