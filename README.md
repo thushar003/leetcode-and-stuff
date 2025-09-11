@@ -90,6 +90,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0005-longest-palindromic-substring](https://github.com/thushar003/leetcode-and-stuff/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/thushar003/leetcode-and-stuff/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/thushar003/leetcode-and-stuff/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/thushar003/leetcode-and-stuff/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/thushar003/leetcode-and-stuff/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/thushar003/leetcode-and-stuff/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/thushar003/leetcode-and-stuff/tree/master/0647-palindromic-substrings) |
@@ -137,6 +138,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/thushar003/leetcode-and-stuff/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/thushar003/leetcode-and-stuff/tree/master/0051-n-queens) |
 ## Two Pointers
 |  |
@@ -164,6 +166,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thushar003/leetcode-and-stuff/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/thushar003/leetcode-and-stuff/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thushar003/leetcode-and-stuff/tree/master/0042-trapping-rain-water) |
 | [0647-palindromic-substrings](https://github.com/thushar003/leetcode-and-stuff/tree/master/0647-palindromic-substrings) |
 ## Monotonic Stack
