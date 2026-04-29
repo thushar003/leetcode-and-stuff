@@ -96,6 +96,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0020-valid-parentheses](https://github.com/thushar003/leetcode-and-stuff/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/thushar003/leetcode-and-stuff/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/thushar003/leetcode-and-stuff/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/thushar003/leetcode-and-stuff/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/thushar003/leetcode-and-stuff/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/thushar003/leetcode-and-stuff/tree/master/0647-palindromic-substrings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/thushar003/leetcode-and-stuff/tree/master/1146-greatest-common-divisor-of-strings) |
