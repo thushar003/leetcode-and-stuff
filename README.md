@@ -43,6 +43,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0042-trapping-rain-water](https://github.com/thushar003/leetcode-and-stuff/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/thushar003/leetcode-and-stuff/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/thushar003/leetcode-and-stuff/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/thushar003/leetcode-and-stuff/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/thushar003/leetcode-and-stuff/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/thushar003/leetcode-and-stuff/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/thushar003/leetcode-and-stuff/tree/master/0084-largest-rectangle-in-histogram) |
@@ -176,6 +177,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0005-longest-palindromic-substring](https://github.com/thushar003/leetcode-and-stuff/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/thushar003/leetcode-and-stuff/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/thushar003/leetcode-and-stuff/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/thushar003/leetcode-and-stuff/tree/master/0055-jump-game) |
 | [0647-palindromic-substrings](https://github.com/thushar003/leetcode-and-stuff/tree/master/0647-palindromic-substrings) |
 ## Monotonic Stack
 |  |
@@ -188,6 +190,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thushar003/leetcode-and-stuff/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/thushar003/leetcode-and-stuff/tree/master/0055-jump-game) |
 ## Tree
 |  |
 | ------- |
