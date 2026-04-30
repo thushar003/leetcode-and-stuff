@@ -71,6 +71,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0217-contains-duplicate](https://github.com/thushar003/leetcode-and-stuff/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thushar003/leetcode-and-stuff/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/thushar003/leetcode-and-stuff/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/thushar003/leetcode-and-stuff/tree/master/0424-longest-repeating-character-replacement) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/thushar003/leetcode-and-stuff/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -100,6 +101,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0049-group-anagrams](https://github.com/thushar003/leetcode-and-stuff/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/thushar003/leetcode-and-stuff/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/thushar003/leetcode-and-stuff/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/thushar003/leetcode-and-stuff/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/thushar003/leetcode-and-stuff/tree/master/0647-palindromic-substrings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/thushar003/leetcode-and-stuff/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Stack
@@ -116,6 +118,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thushar003/leetcode-and-stuff/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/thushar003/leetcode-and-stuff/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
