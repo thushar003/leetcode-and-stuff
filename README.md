@@ -72,6 +72,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0242-valid-anagram](https://github.com/thushar003/leetcode-and-stuff/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/thushar003/leetcode-and-stuff/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/thushar003/leetcode-and-stuff/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/thushar003/leetcode-and-stuff/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/thushar003/leetcode-and-stuff/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
@@ -102,6 +103,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0058-length-of-last-word](https://github.com/thushar003/leetcode-and-stuff/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/thushar003/leetcode-and-stuff/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/thushar003/leetcode-and-stuff/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/thushar003/leetcode-and-stuff/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/thushar003/leetcode-and-stuff/tree/master/0647-palindromic-substrings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/thushar003/leetcode-and-stuff/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Stack
@@ -119,6 +121,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thushar003/leetcode-and-stuff/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/thushar003/leetcode-and-stuff/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/thushar003/leetcode-and-stuff/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -161,6 +164,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0015-3sum](https://github.com/thushar003/leetcode-and-stuff/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/thushar003/leetcode-and-stuff/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thushar003/leetcode-and-stuff/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/thushar003/leetcode-and-stuff/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/thushar003/leetcode-and-stuff/tree/master/0647-palindromic-substrings) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/thushar003/leetcode-and-stuff/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Prefix Sum
