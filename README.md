@@ -48,6 +48,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0054-spiral-matrix](https://github.com/thushar003/leetcode-and-stuff/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/thushar003/leetcode-and-stuff/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/thushar003/leetcode-and-stuff/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/thushar003/leetcode-and-stuff/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/thushar003/leetcode-and-stuff/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/thushar003/leetcode-and-stuff/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thushar003/leetcode-and-stuff/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -71,6 +72,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0013-roman-to-integer](https://github.com/thushar003/leetcode-and-stuff/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/thushar003/leetcode-and-stuff/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/thushar003/leetcode-and-stuff/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/thushar003/leetcode-and-stuff/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/thushar003/leetcode-and-stuff/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/thushar003/leetcode-and-stuff/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/thushar003/leetcode-and-stuff/tree/master/0217-contains-duplicate) |
@@ -96,6 +98,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0036-valid-sudoku](https://github.com/thushar003/leetcode-and-stuff/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/thushar003/leetcode-and-stuff/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/thushar003/leetcode-and-stuff/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/thushar003/leetcode-and-stuff/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/thushar003/leetcode-and-stuff/tree/master/0074-search-a-2d-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thushar003/cplusplus-mini-projects/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## String
