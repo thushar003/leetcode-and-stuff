@@ -53,6 +53,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thushar003/leetcode-and-stuff/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/thushar003/leetcode-and-stuff/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/thushar003/leetcode-and-stuff/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/thushar003/leetcode-and-stuff/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/thushar003/leetcode-and-stuff/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/thushar003/leetcode-and-stuff/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/thushar003/leetcode-and-stuff/tree/master/0792-binary-search) |
@@ -123,6 +124,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thushar003/leetcode-and-stuff/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/thushar003/leetcode-and-stuff/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/thushar003/leetcode-and-stuff/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/thushar003/leetcode-and-stuff/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/thushar003/leetcode-and-stuff/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
@@ -133,6 +135,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/thushar003/leetcode-and-stuff/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/thushar003/leetcode-and-stuff/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -223,4 +226,12 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/thushar003/leetcode-and-stuff/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/thushar003/leetcode-and-stuff/tree/master/0226-invert-binary-tree) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/thushar003/leetcode-and-stuff/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/thushar003/leetcode-and-stuff/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
