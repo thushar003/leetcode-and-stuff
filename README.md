@@ -14,6 +14,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0009-palindrome-number](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/thushar003/leetcode-and-stuff/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/thushar003/leetcode-and-stuff/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/thushar003/leetcode-and-stuff/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thushar003/leetcode-and-stuff/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/thushar003/leetcode-and-stuff/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -41,6 +42,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0015-3sum](https://github.com/thushar003/leetcode-and-stuff/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/thushar003/leetcode-and-stuff/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/thushar003/leetcode-and-stuff/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/thushar003/leetcode-and-stuff/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/thushar003/leetcode-and-stuff/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/thushar003/leetcode-and-stuff/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/thushar003/leetcode-and-stuff/tree/master/0055-jump-game) |
@@ -91,6 +93,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/thushar003/leetcode-and-stuff/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/thushar003/leetcode-and-stuff/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/thushar003/leetcode-and-stuff/tree/master/0074-search-a-2d-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thushar003/cplusplus-mini-projects/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## String
