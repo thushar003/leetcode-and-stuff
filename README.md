@@ -17,6 +17,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0048-rotate-image](https://github.com/thushar003/leetcode-and-stuff/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/thushar003/leetcode-and-stuff/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thushar003/leetcode-and-stuff/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/thushar003/leetcode-and-stuff/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/thushar003/leetcode-and-stuff/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thushar003/cplusplus-mini-projects/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Linked List
@@ -75,6 +76,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0073-set-matrix-zeroes](https://github.com/thushar003/leetcode-and-stuff/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/thushar003/leetcode-and-stuff/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/thushar003/leetcode-and-stuff/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/thushar003/leetcode-and-stuff/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/thushar003/leetcode-and-stuff/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/thushar003/leetcode-and-stuff/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/thushar003/leetcode-and-stuff/tree/master/0347-top-k-frequent-elements) |
@@ -178,6 +180,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0015-3sum](https://github.com/thushar003/leetcode-and-stuff/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/thushar003/leetcode-and-stuff/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thushar003/leetcode-and-stuff/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/thushar003/leetcode-and-stuff/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/thushar003/leetcode-and-stuff/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/thushar003/leetcode-and-stuff/tree/master/0647-palindromic-substrings) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/thushar003/leetcode-and-stuff/tree/master/1468-check-if-n-and-its-double-exist) |
