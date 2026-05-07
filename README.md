@@ -45,6 +45,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0048-rotate-image](https://github.com/thushar003/leetcode-and-stuff/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/thushar003/leetcode-and-stuff/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/thushar003/leetcode-and-stuff/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/thushar003/leetcode-and-stuff/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/thushar003/leetcode-and-stuff/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/thushar003/leetcode-and-stuff/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/thushar003/leetcode-and-stuff/tree/master/0074-search-a-2d-matrix) |
@@ -94,6 +95,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | ------- |
 | [0036-valid-sudoku](https://github.com/thushar003/leetcode-and-stuff/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/thushar003/leetcode-and-stuff/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/thushar003/leetcode-and-stuff/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/thushar003/leetcode-and-stuff/tree/master/0074-search-a-2d-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thushar003/cplusplus-mini-projects/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## String
@@ -237,4 +239,8 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/thushar003/leetcode-and-stuff/tree/master/0239-sliding-window-maximum) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/thushar003/leetcode-and-stuff/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
