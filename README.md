@@ -15,6 +15,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0013-roman-to-integer](https://github.com/thushar003/leetcode-and-stuff/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/thushar003/leetcode-and-stuff/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/thushar003/leetcode-and-stuff/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/thushar003/leetcode-and-stuff/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thushar003/leetcode-and-stuff/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/thushar003/leetcode-and-stuff/tree/master/0202-happy-number) |
@@ -29,6 +30,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thushar003/cplusplus-mini-projects/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/thushar003/leetcode-and-stuff/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/thushar003/leetcode-and-stuff/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
 |  |
