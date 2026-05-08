@@ -67,6 +67,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0792-binary-search](https://github.com/thushar003/leetcode-and-stuff/tree/master/0792-binary-search) |
 | [0853-car-fleet](https://github.com/thushar003/leetcode-and-stuff/tree/master/0853-car-fleet) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/thushar003/leetcode-and-stuff/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2013-detect-squares](https://github.com/thushar003/leetcode-and-stuff/tree/master/2013-detect-squares) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/thushar003/cplusplus-mini-projects/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
 |  |
@@ -86,6 +87,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | [0424-longest-repeating-character-replacement](https://github.com/thushar003/leetcode-and-stuff/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/thushar003/leetcode-and-stuff/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/thushar003/leetcode-and-stuff/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2013-detect-squares](https://github.com/thushar003/leetcode-and-stuff/tree/master/2013-detect-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -159,6 +161,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/thushar003/leetcode-and-stuff/tree/master/0347-top-k-frequent-elements) |
+| [2013-detect-squares](https://github.com/thushar003/leetcode-and-stuff/tree/master/2013-detect-squares) |
 ## Quickselect
 |  |
 | ------- |
@@ -200,6 +203,7 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/thushar003/leetcode-and-stuff/tree/master/0155-min-stack) |
+| [2013-detect-squares](https://github.com/thushar003/leetcode-and-stuff/tree/master/2013-detect-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -254,4 +258,8 @@ Just contains solutions to problems from LeetCode (and other such stuff).
 | ------- |
 | [0043-multiply-strings](https://github.com/thushar003/leetcode-and-stuff/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/thushar003/leetcode-and-stuff/tree/master/0054-spiral-matrix) |
+## Data Stream
+|  |
+| ------- |
+| [2013-detect-squares](https://github.com/thushar003/leetcode-and-stuff/tree/master/2013-detect-squares) |
 <!---LeetCode Topics End-->
